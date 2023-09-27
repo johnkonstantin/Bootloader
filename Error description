@@ -1,0 +1,5 @@
+1 long, 1 short - spi error
+2 long, 1 short - sd mount error
+1 long, 2 short - sd open file error
+2 long, 2 short - sd write file error
+endless on - some asshole called error handler without error code or with invalid code (maybe system error :))
